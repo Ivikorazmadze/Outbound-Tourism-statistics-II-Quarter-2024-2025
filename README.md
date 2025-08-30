@@ -84,6 +84,15 @@ YoY Growth =
         DIVIDE([Expenditures] - [PY Expenditure],[PY Expenditure])
 ```
 
+### Results and Findings
+
+- In the II quarter 2025 the number of Goergian travellers trip equaled to 361,000
+  which is 3.44 % higher compared to the same period of the previous year.
+- The most visited country is Turkey.
+- Tourists are mostly very satisfied with their visits.
+- Shopping and visiting relatives are most common reason for travel.
+- Accomodation expenditures are decreased whereas unclassified costs are increased.
+
 
 
 
